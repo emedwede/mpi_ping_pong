@@ -7,6 +7,6 @@ module purge
 
 module load cuda/11.0
 
-module load cmake
+module load cmake/3.18.1
 
 module list
